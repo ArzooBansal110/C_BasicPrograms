@@ -4,7 +4,7 @@ int main()
 {
     int p, q, r, s;
     printf("q:  \nr:  \ns:  \n  p:  \n");
-    scanf("%d %d %d %d", & q, &r, &s, &p);
+    scanf("%d %d %d %d",&q,&r,&s,&p);
 
     if (q > r && s > p)
     {
