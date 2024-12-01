@@ -6,6 +6,7 @@ int main()
     printf("input an integer: ");
     scanf("%d %d", &a, &b);
     c = a - b;
-    printf("Range: %d ", c);
+    printf("Range: %d ",c); 
+
     return 0;
 }
